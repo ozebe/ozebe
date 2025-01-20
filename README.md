@@ -6,7 +6,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over four years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>A highly resourceful computer programmer and well-rounded IT professional with over six years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ozebe" alt="https://github.com/ozebe" />
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">Java, Springboot, Javascript, NodeJS, SQL, Git, Github, Bitbucket, Apache, Jenkins.</p>
+<p align="center">Java, Springboot, Javascript, Python, Angular, NodeJS, SQL, Git, Github, Bitbucket, Apache, Jenkins.</p>
 
 <hr>
 
